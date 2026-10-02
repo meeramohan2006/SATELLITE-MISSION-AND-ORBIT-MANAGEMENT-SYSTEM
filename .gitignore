@@ -1,0 +1,15 @@
+# Byte-code and build outputs
+bin/
+target/
+*.class
+
+# IDE and Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Local properties override
+db.properties.local
